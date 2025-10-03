@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ligne depuis feature1
+=======
+autre version depuis main
+>>>>>>> main
